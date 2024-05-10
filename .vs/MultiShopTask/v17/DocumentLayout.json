@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|c:\\users\\99455\\source\\repos\\multishoptask\\multishoptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|solutionrelative:multishoptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|C:\\Users\\99455\\source\\repos\\MultiShopTask\\multishoptask\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|solutionrelative:multishoptask\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|C:\\Users\\99455\\source\\repos\\MultiShopTask\\multishoptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|solutionrelative:multishoptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|C:\\Users\\99455\\source\\repos\\MultiShopTask\\multishoptask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|solutionrelative:multishoptask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|C:\\Users\\99455\\source\\repos\\MultiShopTask\\multishoptask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824C255A-E8B5-4839-925F-79AD08D3D9A8}|MultiShopTask\\MultiShopTask.csproj|solutionrelative:multishoptask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MultiShopTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MultiShopTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:23:49.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MultiShopTask\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Models\\Category.cs",
+              "RelativeToolTip": "MultiShopTask\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:15:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MultiShopTask\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MultiShopTask\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T22:25:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShopTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiShopTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:32:46.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiShopTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopTask\\MultiShopTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiShopTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:29:35.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
